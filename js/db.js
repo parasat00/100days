@@ -11,6 +11,11 @@ export const db = [
    dayStr : "June 1. Thursday",
    description: "Worked more on Ecommerce website",
    thoughts: "Feeled down because understood that I have a lot of things to learn. It is important to not give up",
-  //  link: "https://github.com/parasat00/SDU-Career-Roadmap"
+ },
+ {
+   dayNumber : 3,
+   dayStr : "June 2. Friday",
+   description: "Studied React on Scrimba",
+   thoughts: "Was busy today, had time just to study React. Got to make up tomorrow",
  },
 ];
