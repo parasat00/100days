@@ -18,4 +18,10 @@ export const db = [
    description: "Studied React on Scrimba",
    thoughts: "Was busy today, had time just to study React. Got to make up tomorrow",
  },
+ {
+   dayNumber : 4,
+   dayStr : "June 4. Sunday",
+   description: "Studied JWT authentication and added it to my project",
+   thoughts: "Open new stuff for me, feeling good",
+ },
 ];
