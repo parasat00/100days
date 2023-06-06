@@ -22,12 +22,18 @@ export const db = [
    dayNumber : 4,
    dayStr : "June 4. Sunday",
    description: "Studied JWT authentication and added it to my project",
-   thoughts: "Open new stuff for me, feeling good",
+   thoughts: "Opened new stuff for me, feeling good",
  },
  {
    dayNumber : 5,
    dayStr : "June 5. Monday",
    description: "Developed frontend part for login, registration, logout functionality",
    thoughts: "Feeling tired of amount of new information, since I am new to Redux",
+ },
+ {
+   dayNumber : 6,
+   dayStr : "June 6. Tuesday",
+   description: "In process of development of checkout process for my Ecommerce website",
+   thoughts: "A bit tired, but I will manage it",
  },
 ];
