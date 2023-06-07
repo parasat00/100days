@@ -36,4 +36,10 @@ export const db = [
    description: "In process of development of checkout process for my Ecommerce website",
    thoughts: "A bit tired, but I will manage it",
  },
+ {
+   dayNumber : 7,
+   dayStr : "June 7. Wednesday",
+   description: "Completed the process of checkout for my Ecommerce website",
+   thoughts: "It was a good day. Did not know that PayPal has such convenient services for developers",
+ },
 ];
