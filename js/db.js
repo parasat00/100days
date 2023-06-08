@@ -42,4 +42,10 @@ export const db = [
    description: "Completed the process of checkout for my Ecommerce website",
    thoughts: "It was a good day. Did not know that PayPal has such convenient services for developers",
  },
+ {
+   dayNumber : 8,
+   dayStr : "June 8. Thursday",
+   description: "Spend time learning React in Scrimba",
+   thoughts: "Decided to take a day off from the project, feeling better",
+ },
 ];
