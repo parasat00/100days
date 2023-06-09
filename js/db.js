@@ -48,4 +48,10 @@ export const db = [
    description: "Spend time learning React in Scrimba",
    thoughts: "Decided to take a day off from the project, feeling better",
  },
+ {
+   dayNumber : 9,
+   dayStr : "June 9. Friday",
+   description: "Started working on Admin panel for my Ecommerce project, also learned React for an hour or two",
+   thoughts: "I am feeling great today, only downside is heat that makes me sweat all the damn time",
+ },
 ];
