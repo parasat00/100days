@@ -54,4 +54,10 @@ export const db = [
    description: "Started working on Admin panel for my Ecommerce project, also learned React for an hour or two",
    thoughts: "I am feeling great today, only downside is heat that makes me sweat all the damn time",
  },
+ {
+   dayNumber : 10,
+   dayStr : "June 10. Saturday",
+   description: "Worked on Ecommerce Project, finished Admin Panel",
+   thoughts: "Feeling great knowing that I am almost done with the project",
+ },
 ];
