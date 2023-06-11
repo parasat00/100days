@@ -60,4 +60,10 @@ export const db = [
    description: "Worked on Ecommerce Project, finished Admin Panel",
    thoughts: "Feeling great knowing that I am almost done with the project",
  },
+ {
+   dayNumber : 11,
+   dayStr : "June 11. Sunday",
+   description: "Finished Ecommerce Website",
+   thoughts: "Feels great to finish the project",
+ },
 ];
