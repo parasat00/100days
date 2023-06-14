@@ -72,4 +72,16 @@ export const db = [
    description: "Spent a day completing python tasks in exercism.org",
    thoughts: "Feels good to remind myself of a how great programming language python is",
  },
+ {
+   dayNumber : 13,
+   dayStr : "June 13. Tuesday",
+   description: "Did some tasks in exercism.org",
+   thoughts: "Feeling bad, since I cant find time to code more",
+ },
+ {
+   dayNumber : 14,
+   dayStr : "June 14. Wednesday",
+   description: "Created message sender using python",
+   thoughts: "Created message sender to send my CV to all email at once:)",
+ },
 ];
