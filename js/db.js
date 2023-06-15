@@ -84,4 +84,10 @@ export const db = [
    description: "Created message sender using python",
    thoughts: "Created message sender to send my CV to all email at once:)",
  },
+ {
+   dayNumber : 15,
+   dayStr : "June 15. Thursday",
+   description: "Practiced with python and learned React",
+   thoughts: "Feeling better",
+ },
 ];
