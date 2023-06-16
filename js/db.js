@@ -90,4 +90,10 @@ export const db = [
    description: "Practiced with python and learned React",
    thoughts: "Feeling better",
  },
+ {
+   dayNumber : 16,
+   dayStr : "June 16. Friday",
+   description: "Solve leetcode problems with python and learned React",
+   thoughts: "Unsatisfied, coded less because was busy",
+ },
 ];
