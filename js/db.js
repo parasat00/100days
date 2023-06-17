@@ -96,4 +96,10 @@ export const db = [
    description: "Solve leetcode problems with python and learned React",
    thoughts: "Unsatisfied, coded less because was busy",
  },
+ {
+   dayNumber : 17,
+   dayStr : "June 17. Saturday",
+   description: "Solve python problems on leetcode and learned React on Scrimba",
+   thoughts: "Unsatisfied, became lazy",
+ },
 ];
