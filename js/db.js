@@ -102,4 +102,16 @@ export const db = [
    description: "Solve python problems on leetcode and learned React on Scrimba",
    thoughts: "Unsatisfied, became lazy",
  },
+ {
+   dayNumber : 18,
+   dayStr : "June 18. Sunday",
+   description: "Same with Yesterday",
+   thoughts: "Feeling lazy to learn",
+ },
+ {
+   dayNumber : 19,
+   dayStr : "June 19. Monday",
+   description: "Refreshed memory about SQL and did some task on leetcode",
+   thoughts: "Starting to learn more and more hours a day",
+ },
 ];
